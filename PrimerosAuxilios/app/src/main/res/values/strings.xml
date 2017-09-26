@@ -6,4 +6,6 @@
     <string name="credits">Créditos</string>
     <string name="info">Más información</string>
     <string name="services">Más servicios</string>
+    <string name="input_text">Cuál es la emergencia?</string>
+    <string name="send_button">Enviar</string>
 </resources>
