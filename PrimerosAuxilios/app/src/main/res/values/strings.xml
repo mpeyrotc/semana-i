@@ -3,4 +3,7 @@
     <string name="open">Open</string>
     <string name="close">Close</string>
     <string name="menu_header">Menú</string>
+    <string name="credits">Créditos</string>
+    <string name="info">Más información</string>
+    <string name="services">Más servicios</string>
 </resources>
